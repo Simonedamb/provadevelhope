@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+main{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.navlaterale{
+    background-color: gray;
+    height: 50rem;
+    width: 20rem;
+}
+
+
+.cerca{
+    justify-content: center;
+}
+
+.barralaterale{
+    background-color: grey;
+    width: 50rem;
+    height: 50rem;
+}
+
